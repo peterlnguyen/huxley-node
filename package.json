@@ -1,0 +1,23 @@
+{
+  "name": "huxley-node",
+  "version": "1.0.0",
+  "description": "Node mixin for Huxley",
+  "main": "index.coffee",
+  "scripts": {
+    "start": "coffee --nodejs --harmony index.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterlnguyen/huxley-node.git"
+  },
+  "author": "Peter Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterlnguyen/huxley-node/issues"
+  },
+  "homepage": "https://github.com/peterlnguyen/huxley-node",
+  "dependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
